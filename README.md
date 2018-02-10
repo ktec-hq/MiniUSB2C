@@ -1,4 +1,4 @@
- ![image](url)# MiniUSB2C
+MiniUSB2C
 Idea from https://github.com/manisteinn/usb-type-c-hhkb
 MiniUSB2C is for some other keyboards that use MiniUSB like below.
 先拆掉之前的MiniUSB，有热风枪比较好拆。
@@ -19,3 +19,7 @@ MiniUSB2C is for some other keyboards that use MiniUSB like below.
 
 工作完美。
  ![image](https://github.com/ktec-hq/MiniUSB2C/raw/master/img/DSC05771.jpg)
+
+下面这个是本身已经焊好轴的PCB(YDPM40 demo green)，更换Type-C接口
+ ![image](https://github.com/ktec-hq/MiniUSB2C/raw/master/img/DSC05783.jpg)
+ ![image](https://github.com/ktec-hq/MiniUSB2C/raw/master/img/DSC05784.jpg)
