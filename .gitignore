@@ -16,3 +16,5 @@ _autosave-ErgoDOX.kicad_pcb
 *.rar
 *.tar
 *.zip
+*.gbr
+*.drl
